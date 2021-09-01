@@ -10,3 +10,4 @@
 techiemokhele/techiemokhele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![image](https://user-images.githubusercontent.com/67394147/131592600-d37ed0ed-2696-434c-9e5a-dde31f8d517f.png)
