@@ -10,6 +10,5 @@
 techiemokhele/techiemokhele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
-    ![web-developer-php-script-laravel-website-development](https://user-images.githubusercontent.com/67394147/131592819-83b67b23-6787-47d0-bf56-2ace75d506b4.jpg)
-</p>
+![web-developer-php-script-laravel-website-development](https://user-images.githubusercontent.com/67394147/131592854-cf42468a-6e70-4503-bcf7-56d4b65390d7.jpg)
+
