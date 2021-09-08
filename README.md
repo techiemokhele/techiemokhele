@@ -6,7 +6,8 @@
 - 🌐 View live demo portfolio: techiemokhele.github.io/techiemokhele_resume.github.io/ 
 - 📫 How to reach me, call me on +27(60)991-1484 or send me an email at neomokhele23@gmail.com -> https://www.linkedin.com/in/neo-mokhele-458188188/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=techiemokhele)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=techiemokhele&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!---
