@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @techiemokhele
-- 👀 I’m interested in developing web applications using HTML, CSS, JavaScript, jQuery, Ajax, Vue.js, PHP, MySQL, Laravel & WordPress
-- 🌱 I’m currently learning how to develop more complex web applications using Laravel
+- 🌱 At the moment I’m currently learning how to develop more complex web applications using React.js & Laravel
 - ✔️ 2021 Goals: To Enhance my Development skills
 - 📣 Fun fact: I love to listen while coding Music
 - 🌐 View live demo portfolio: techiemokhele.github.io/techiemokhele_resume.github.io/ 
