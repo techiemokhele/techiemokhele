@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **web and mobile projects**
 
-- 🤝 I’m looking for help with **sharping my react skills, both mobile and web**
-
 - 👨‍💻 All of my projects are available at [https://neomokhele-portfolio.netlify.app/](https://neomokhele-portfolio.netlify.app/)
 
 - 📝 I will regularly write articles on [https://medium.com/@softwareninjaneer](https://medium.com/@softwareninjaneer)
