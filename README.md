@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **web and mobile projects**
 
-- 👨‍💻 All of my projects are available at [https://neomokhele-portfolio.netlify.app/](https://neomokhele-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://neo-mokhele-react-portfolio.vercel.app/
 
 - 📝 I will regularly write articles on [https://medium.com/@softwareninjaneer](https://medium.com/@softwareninjaneer)
 
