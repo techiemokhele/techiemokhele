@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techiemokhele" alt="techiemokhele" /></a> </p>
 
-- 🔭 I’m currently working on **referral mobile application**
+- 🔭 I’m currently working on **Patient Management System**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript with Nextjs**
 
 - 👯 I’m looking to collaborate on **web and mobile projects**
 
