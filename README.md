@@ -12,8 +12,6 @@
 </p>
 
 - 📊 I have worked in Telecommunications, Digital Communications, and Manufacturing industries for the past couple of years.
-  
-- 📝 I write articles on [https://medium.com/@softwareninjaneer](https://medium.com/@softwareninjaneer)
 
 - 🔭 I’m currently working on **[Industrial Bulk Bags Website](https://github.com/techiemokhele/bulk_bags)**
 
