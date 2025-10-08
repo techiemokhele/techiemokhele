@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neo Mokhele</h1>
 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%); width: 1270px" src="https://private-user-images.githubusercontent.com/46662771/399846949-0bba2330-4c77-41dd-a1a3-4799093efb09.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk5MjQyOTUsIm5iZiI6MTc1OTkyMzk5NSwicGF0aCI6Ii80NjY2Mjc3MS8zOTk4NDY5NDktMGJiYTIzMzAtNGM3Ny00MWRkLWExYTMtNDc5OTA5M2VmYjA5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDA4VDExNDYzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlZDA2NmEyODI4YTE2Y2IzOWZiZjVmODc5NzljM2RmMmJhNzljMGViZTU0ZWZkZmQ3YmM1MTA3ZjBmYWQ1ZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CWU2j-ZlwB8kVViuWSNPf8UuWZIoT5jKIl7fw7MEY4Q">
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=techiemokhele&label=Profile%20views&color=0e75b6&style=flat" alt="techiemokhele" /> </p>
 
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Frontend Engineer</h3>
 
 <p>I specialise in creating seamless digital experiences, with expertise in both web and mobile development. My journey began with a strong foundation in website development using Laravel, Vue, WordPress, JavaScript, HTML, CSS, and PHP. I excel in crafting user interfaces, handling complex server-side tasks, and ensuring optimal performance.</p>
 
@@ -69,9 +71,6 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/4c404ee3b9f73190f23c194c889274fdb43314d4d767a786eed8e8a117c8f062/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" alt="express" width="40" height="40"/> 
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>  
@@ -85,9 +84,6 @@
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="webpack" width="40" height="40"/> 
   </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
